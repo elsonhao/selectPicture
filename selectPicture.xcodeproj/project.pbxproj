@@ -12,6 +12,7 @@
 		AF24258D1E7B7C9C00915CBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF24258B1E7B7C9C00915CBD /* Main.storyboard */; };
 		AF24258F1E7B7C9C00915CBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF24258E1E7B7C9C00915CBD /* Assets.xcassets */; };
 		AF2425921E7B7C9C00915CBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF2425901E7B7C9C00915CBD /* LaunchScreen.storyboard */; };
+		AF24259A1E7B803200915CBD /* pexels-photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF2425991E7B803200915CBD /* pexels-photo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AF24258E1E7B7C9C00915CBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF2425911E7B7C9C00915CBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF2425931E7B7C9C00915CBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF2425991E7B803200915CBD /* pexels-photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pexels-photo.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AF24258B1E7B7C9C00915CBD /* Main.storyboard */,
 				AF24258E1E7B7C9C00915CBD /* Assets.xcassets */,
 				AF2425901E7B7C9C00915CBD /* LaunchScreen.storyboard */,
+				AF2425991E7B803200915CBD /* pexels-photo.jpg */,
 				AF2425931E7B7C9C00915CBD /* Info.plist */,
 			);
 			path = selectPicture;
@@ -127,6 +130,7 @@
 				AF2425921E7B7C9C00915CBD /* LaunchScreen.storyboard in Resources */,
 				AF24258F1E7B7C9C00915CBD /* Assets.xcassets in Resources */,
 				AF24258D1E7B7C9C00915CBD /* Main.storyboard in Resources */,
+				AF24259A1E7B803200915CBD /* pexels-photo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +304,7 @@
 				AF2425981E7B7C9C00915CBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
